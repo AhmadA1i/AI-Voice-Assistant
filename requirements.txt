@@ -1,0 +1,8 @@
+openai-whisper
+groq
+gtts
+gradio
+os
+twilio
+flask
+requests
